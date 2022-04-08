@@ -1,5 +1,5 @@
 # Girls Who Code Queens College
-
+<img src="images/coworker-team-work.gif" alt="Two women working together">
 
 
 Here are some ideas to get you started:
