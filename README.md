@@ -1,4 +1,4 @@
-#😻 Girls Who Code Queens College
+# 😻 Girls Who Code Queens College
 <img src="images/coworker-team-work.gif" align="right" alt="Two women working together">
 <br></br>
 <p align="left">
